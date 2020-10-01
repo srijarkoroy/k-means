@@ -3,13 +3,13 @@
 <br>
 
 # Working:
--Our objective is to group the unlabeled data into k clusters. K-Means is an iterative algorithm. So, first we are going to randomly initialize k points (since we want to group the data into k clusters), known as cluster centroids. 
+- Our objective is to group the unlabeled data into k clusters. K-Means is an iterative algorithm. So, first we are going to randomly initialize k points (since we want to group the data into k clusters), known as cluster centroids. 
 
--The algorithm goes through each of the examples and depending on which cluster centroid they are closer to, it assigns each of the data points to one of the cluster centroids. This step is called the “Cluster Assignment Step”.
+- The algorithm goes through each of the examples and depending on which cluster centroid they are closer to, it assigns each of the data points to one of the cluster centroids. This step is called the “Cluster Assignment Step”.
 
--The second part of the iteration is called the “Move Centroid Step”. The two cluster centroids are taken and moved to the average of their corresponding data points. Specifically, we are going to compute the mean of the points’ location for each of the two clusters already formed and move the centroids to their respective cluster means.
+- The second part of the iteration is called the “Move Centroid Step”. The two cluster centroids are taken and moved to the average of their corresponding data points. Specifically, we are going to compute the mean of the points’ location for each of the two clusters already formed and move the centroids to their respective cluster means.
 
--The algorithm continues with the specified number of iterations performing Cluster Assignment and Move Centroid steps iteratively and eventually K-Means converges.
+- The algorithm continues with the specified number of iterations performing Cluster Assignment and Move Centroid steps iteratively and eventually K-Means converges.
 <br>
 
 # Application:

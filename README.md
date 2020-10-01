@@ -1,2 +1,2 @@
 # KMeans-Clustering
-<img src="https://github.com/srijarkoroy/KMeans-Clustering-step-by-step/tree/master/Media/km.png"> 
+<img src="https://raw.githubusercontent.com/srijarkoroy/KMeans-Clustering-step-by-step/master/Media/km.png"> 

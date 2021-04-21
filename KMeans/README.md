@@ -27,11 +27,11 @@ The K-Means Algorithm scales really well to large datasets, generalized to clust
 ## Guidelines to use the code and obtain the graphs 
 - Clone the Repository and enter the appropriate directory: 
 
-        git clone https://github.com/sashrika15/Unsupervised_Learning_Algorithms
+        git clone https://github.com/srijarkoroy/k-means
 
 - Entering the KMeans directory: 
 
-        cd clustering/KMeans
+        cd k-means
         
 - Setting up the Python Environment with dependencies:
 
